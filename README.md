@@ -1,4 +1,4 @@
-# student-profiles
+# profiles
 
 ## Project setup
 ```
